@@ -179,6 +179,7 @@ public class PHANTOMExample {
         return "{" + String.join(", ", sorted) + "}";
     }
 
+
     private static void saveResults(List<Itemset> topK, String filename,
                                   long executionTime) throws IOException {
         // Create directory if it doesn't exist
