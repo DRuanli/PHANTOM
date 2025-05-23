@@ -1,0 +1,16 @@
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/parallel/UncertaintyProfile.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/parallel/SearchPartition.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/core/UPTree.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/parallel/ProcessorTask.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/algorithms/PolarBoundsCalculator.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/core/Itemset.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/algorithms/ExpectedUtilityCalculator.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/parallel/GlobalTopK.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/algorithms/UncertainMine.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/core/ProbabilisticUtilityTensor.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/parallel/ConvergenceMonitor.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/parallel/UtilityStats.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/core/Transaction.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/parallel/PHANTOMMain.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/core/Database.java
+/Users/lenguyen/Desktop/phantom-mining/src/main/java/edu/thesis/mining/examples/PHANTOMExample.java
